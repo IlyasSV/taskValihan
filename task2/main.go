@@ -29,4 +29,5 @@ func main() {
 	}
 
 	fmt.Printf("%+v\n", person)
+
 }
